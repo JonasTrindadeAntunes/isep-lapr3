@@ -13,5 +13,5 @@ To increase maintainability and adhere to software development best practices, i
 2. Problem Description
 
 This section describes the problem to be solved and the development of a software solution addressing some of the critical aspects of operating an organic farm.
-It introduces organic farming and its specificities, characterizes a farm and its components—including irrigation systems
-and agricultural weather stations—and presents the most common marketing models in this type of farming.
+It introduces organic farming and its specificities, characterizes a farm and its components - including irrigation systems
+and agricultural weather stations - and presents the most common marketing models in this type of farming.
